@@ -1,6 +1,8 @@
 # Lung-Cancer-Detection-System-using-Machine-Learning
 Lung Cancer Detection System using Machine Learning Code, Document And Video Tutorial
 
+![Lung Cancer](https://github.com/user-attachments/assets/f569dc5e-f64f-4b41-b2b0-542a8d34266b)
+
 ## Youtube link: https://youtu.be/FAwpwldzOq8?si=9oS7FI8ZtDhK2SUq
 
 ## Abstract:
